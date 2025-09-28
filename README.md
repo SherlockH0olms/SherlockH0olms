@@ -1,39 +1,48 @@
-<h1 align="center">Hi 👋, I'm Huseyn</h1>
-<h3 align="center">A passionate Red Teaming specialist and AI enthusiast</h3>
+My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated institution of Visvesvaraya Technological University , India.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlockh0olms&label=Profile%20views&color=0e75b6&style=flat" alt="sherlockh0olms" /> </p>
+<picture>
+    <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EchoSingh&theme=tokyonight">
+</picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherlockh0olms" alt="sherlockh0olms" /></a> </p>
+### :space_invader: More About Me
 
-- 🔭 I’m currently working on [FeedAI](https://github.com/SherlockH0olms/Feed_AI)
+-   :pencil2: [C++](https://github.com/EchoSingh?tab=repositories&type=&language=c%2B%2B&sort=) / [Python](https://github.com/EchoSingh?tab=repositories&type=&language=Python&sort=) / [Java](https://github.com/EchoSingh?tab=repositories&type=&language=Java&sort=) / [LaTeX](https://github.com/EchoSingh?tab=repositories&type=&language=TeX&sort=)  
+-   :package: [Garuda Linux](https://garudalinux.org/) / [Windows 11](https://www.microsoft.com/windows/) / [Sublime Text](https://www.sublimetext.com/) / [mpv](https://mpv.io/) / [Chromium](https://www.chromium.org/) / [CNCF Kubernetes](https://kubernetes.io/)  
+-   :handbag: Intern at [Nokia](https://www.nokia.com/)
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
+-   :key: GPG key: [`E7FD9CFCABD3C504`](https://github.com/EchoSingh.gpg)
 
-- 🌱 I’m currently learning **DevSecOps Penetration Testing**
-
-- 👯 I’m looking to collaborate on [FeedAI](https://github.com/SherlockH0olms/Feed_AI)
-
-- 🤝 I’m looking for help with [Shoppi](https://github.com/SherlockH0olms/ShoppiAI)
-
-- 📝 I regularly write articles on [https://medium.com/feed/@huseyn.qemberli21](https://medium.com/feed/@huseyn.qemberli21)
-
-- 💬 Ask me about **Back End coding**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sherlockh0olms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sherlockh0olms" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/h%c3%bcseyn-q%c9%99mb%c9%99rli-b09a23374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h%c3%bcseyn-q%c9%99mb%c9%99rli-b09a23374/" height="30" width="40" /></a>
-<a href="https://medium.com/@huseyn.qemberli21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@huseyn.qemberli21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sherlockholms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sherlockholms" height="30" width="40" /></a>
+<p align="center">
+  <samp>
+    <a href="https://adi-pf.vercel.app">me</a> • 
+    <a href="https://www.linkedin.com/in/adityasinghgdev">linkedin</a> •
+    <a href="https://leetcode.com/u/rayo_n/">leetcode</a> •
+      <a href="https://www.kaggle.com/adi2606">kaggle</a> • 
+    <a href="https://hashnode.com/@echosingh">newsletter</a> • 
+    <a href="https://www.goodreads.com/aditya_reads">goodreads</a> • 
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<details>
+<summary>:chess_pawn: Chess.com Rating Chart</summary>
+<!-- START_RATING_GRAPH:chess.com -->
+Chess.com rating chart for the last 200 games:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherlockh0olms&show_icons=true&locale=en&layout=compact" alt="sherlockh0olms" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherlockh0olms&show_icons=true&locale=en" alt="sherlockh0olms" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherlockh0olms&" alt="sherlockh0olms" /></p>
+```ascii
+1006 ┤                                                                                                                                                                                  ╭╮
+ 981 ┤                                                                                                                                                                                 ╭╯│
+ 957 ┤                                                                                                                                                                            ╭╮  ╭╯ │ ╭───╮
+ 932 ┤                                                                                                                                                                            ││  │  │ │   │
+ 908 ┤                                                                                                                                                                            │╰╮╭╯  ╰╮│   │
+ 883 ┤         ╭──╮                                                              ╭──╮                 ╭─╮  ╭──╮╭────╮          ╭╮╭╮                   ╭╮                 ╭───╮    │ ╰╯    ╰╯   │
+ 859 ┤       ╭─╯  │                                                              │  ╰──╮              │ ╰──╯  ╰╯    ╰────╮  ╭──╯╰╯│        ╭╮     ╭╮╭─╯╰────╮╭────╮╭╮╭───╯   ╰╮   │            │
+ 834 ┤      ╭╯    │           ╭─╮╭╮      ╭╮                                      │     ╰─────╮        │                  ╰──╯     │╭╮     ╭╯╰╮  ╭─╯╰╯       ╰╯    ╰╯╰╯        ╰╮ ╭╯            │
+ 810 ┼─╮╭╮ ╭╯     │      ╭╮╭──╯ ╰╯╰──────╯│        ╭────╮╭╮╭╮╭╮                  │           ╰──╮╭────╯                           ╰╯╰╮   ╭╯  ╰──╯                              │╭╯             │
+ 785 ┤ ╰╯╰─╯      │ ╭────╯╰╯              ╰────────╯    ╰╯╰╯╰╯╰───╮  ╭───────────╯              ╰╯                                   ╰───╯                                     ╰╯              │
+ 761 ┤            ╰─╯                                             ╰──╯                                                                                                                         │          ╭──
+ 736 ┤                                                                                                                                                                                         │  ╭╮╭─────╯
+ 712 ┤                                                                                                                                                                                         ╰──╯╰╯
+ 687 ┤
+```
+<!-- END_RATING_GRAPH:chess.com -->
+</details>
