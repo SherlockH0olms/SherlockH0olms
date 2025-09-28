@@ -7,7 +7,7 @@
 ### 👾 More About Me
 
 -   ✏️ **Languages / Tech:** [Python](https://github.com/SherlockH0olms?tab=repositories&q=&type=&language=python&sort=)
--   📦 Tools / OS: Garuda Linux / Windows 11 / Sublime Text / mpv / Chromium / CNCF Kubernetes
+-   📦 Tools / OS: [Garuda Linux](https://garudalinux.org/) / [Windows 11](https://www.microsoft.com/windows/) / [Sublime Text](https://www.sublimetext.com/) / [mpv](https://mpv.io/) / [Chromium](https://www.chromium.org/) / [CNCF Kubernetes](https://kubernetes.io/)
 -   💼 Intern at [AzInTelecom](https://azintelecom.az/az)
 -   💬 Ask me anything at [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
 -   🔐 GPG key: `E7FD9CFCABD3C504`
