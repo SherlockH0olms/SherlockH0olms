@@ -1,30 +1,27 @@
-My name is **Aditya Singh**. I'm a final-year B.E. student at an affiliated institution of Visvesvaraya Technological University , India.
+# Hi 👋, I'm Huseyn
 
 <picture>
-    <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EchoSingh&theme=tokyonight">
+    <img align="right" width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EchoSingh&theme=tokyonight" alt="EchoSingh stats">
 </picture>
 
-### :space_invader: More About Me
+### 👾 More About Me
 
--   :pencil2: [C++](https://github.com/EchoSingh?tab=repositories&type=&language=c%2B%2B&sort=) / [Python](https://github.com/EchoSingh?tab=repositories&type=&language=Python&sort=) / [Java](https://github.com/EchoSingh?tab=repositories&type=&language=Java&sort=) / [LaTeX](https://github.com/EchoSingh?tab=repositories&type=&language=TeX&sort=)  
--   :package: [Garuda Linux](https://garudalinux.org/) / [Windows 11](https://www.microsoft.com/windows/) / [Sublime Text](https://www.sublimetext.com/) / [mpv](https://mpv.io/) / [Chromium](https://www.chromium.org/) / [CNCF Kubernetes](https://kubernetes.io/)  
--   :handbag: Intern at [Nokia](https://www.nokia.com/)
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
--   :key: GPG key: [`E7FD9CFCABD3C504`](https://github.com/EchoSingh.gpg)
+-   ✏️ **Languages / Tech:** [Python](https://github.com/SherlockH0olms?tab=repositories&q=&type=&language=python&sort=)
+-   📦 Tools / OS: Garuda Linux / Windows 11 / Sublime Text / mpv / Chromium / CNCF Kubernetes
+-   💼 Intern at [AzInTelecom](https://azintelecom.az/az)
+-   💬 Ask me anything at [Discussions](https://github.com/EchoSingh/EchoSingh/discussions/new/choose)!
+-   🔐 GPG key: `E7FD9CFCABD3C504`
 
 <p align="center">
   <samp>
-    <a href="https://adi-pf.vercel.app">me</a> • 
-    <a href="https://www.linkedin.com/in/adityasinghgdev">linkedin</a> •
-    <a href="https://leetcode.com/u/rayo_n/">leetcode</a> •
-      <a href="https://www.kaggle.com/adi2606">kaggle</a> • 
-    <a href="https://hashnode.com/@echosingh">newsletter</a> • 
-    <a href="https://www.goodreads.com/aditya_reads">goodreads</a> • 
+    <a href="https://www.linkedin.com/in/h%C3%BCseyn-q%C9%99mb%C9%99rli-b09a23374/">linkedin</a> •
+    <a href="https://medium.com/@huseyn.qemberli21">medium</a>
   </samp>
 </p>
 
 <details>
-<summary>:chess_pawn: Chess.com Rating Chart</summary>
+<summary>♟️ Chess.com Rating Chart (last 200 games)</summary>
+
 <!-- START_RATING_GRAPH:chess.com -->
 Chess.com rating chart for the last 200 games:
 
@@ -43,6 +40,3 @@ Chess.com rating chart for the last 200 games:
  736 ┤                                                                                                                                                                                         │  ╭╮╭─────╯
  712 ┤                                                                                                                                                                                         ╰──╯╰╯
  687 ┤
-```
-<!-- END_RATING_GRAPH:chess.com -->
-</details>
